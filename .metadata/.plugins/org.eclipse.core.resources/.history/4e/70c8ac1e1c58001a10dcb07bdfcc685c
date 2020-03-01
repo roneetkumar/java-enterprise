@@ -1,9 +1,0 @@
-package com.college.model;
-
-public class Course {
-	
-	private String name;
-	private String id;
-	private Date date;
-
-}

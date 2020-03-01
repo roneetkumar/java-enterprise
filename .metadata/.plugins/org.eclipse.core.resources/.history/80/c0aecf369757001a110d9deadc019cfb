@@ -1,8 +1,0 @@
-package com.project.models;
-
-public class Message {
-	private $from;
-    private $to;
-    private $message;
-    private $date;
-}

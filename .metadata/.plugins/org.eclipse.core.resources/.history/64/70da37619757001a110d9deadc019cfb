@@ -1,9 +1,0 @@
-package com.project.models;
-
-import java.util.Date;
-
-public class Message {
-    private User to;
-    private String content;
-    private Date date;
-}

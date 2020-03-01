@@ -1,7 +1,0 @@
-package com.college.model;
-
-public class College {
-	
-	ArrayList<Student> students= new ArrayList<>();
-
-}

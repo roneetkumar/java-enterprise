@@ -1,0 +1,17 @@
+package com.student.model;
+
+public class Student {
+	private String Name;
+	private int age;
+	private String Course;
+	private String Email;
+	
+	public Student(String name, int age, String course, String email) {
+		super();
+		Name = name;
+		this.age = age;
+		Course = course;
+		Email = email;
+	}
+	
+}

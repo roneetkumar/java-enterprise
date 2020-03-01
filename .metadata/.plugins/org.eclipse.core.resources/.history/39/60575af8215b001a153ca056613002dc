@@ -1,0 +1,16 @@
+package com.project.helpers;
+
+public class RandomUtil {
+
+	
+	public static String getRandomID(int from,int to) {
+		String tempID = "";
+		for(int i = from; i<to; i++){
+	      int randomInt = (int)(to * Math.random());
+	      System.out.println(randomInt);
+	      tempID +=	randomInt;
+		}
+		return tempID;
+	}
+	
+}

@@ -1,0 +1,8 @@
+package com.project.models;
+
+public class Message {
+	private 
+    private User to;
+    private String content;
+    private Datedate;
+}

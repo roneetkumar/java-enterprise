@@ -1,0 +1,18 @@
+package com.college.model;
+
+import java.util.Date;
+
+public class Course {
+	
+	private String name;
+	private String id;
+	private Date date;
+	public Course(String name, String id) {
+		super();
+		this.name = name;
+		this.id = id;
+		this.date = date;
+	}
+	
+
+}

@@ -1,0 +1,15 @@
+package com.project.helpers;
+
+public class RandomUtil {
+
+	
+	public static String getRandomID(int from,int to) {
+		String tempID = "";
+		for(int i =0; i<3; i++){
+	      int randomInt = (int)(to * Math.random());
+	      tempID +=	randomInt.
+		}
+		return tempID;
+	}
+	
+}

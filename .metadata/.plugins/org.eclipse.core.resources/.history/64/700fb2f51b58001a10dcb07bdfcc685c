@@ -1,0 +1,8 @@
+package com.college.model;
+
+public class Student {
+	private String name;
+	private int age;
+	private String email;
+	private ArrayList<Course> courses;
+}
